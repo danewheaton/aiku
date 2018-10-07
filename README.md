@@ -1,5 +1,5 @@
 # Aiku
-Hello, anyone interested in my C# scripting abilities! This is a good example of what my code looked like in May 2018 - in the Scripts folder, I wrote everything in the following subfolders:
+Hello, anyone interested in my C# scripting abilities! This is a good example of what my code looked like in May 2018 - in the Scripts folder, I wrote everything found in the following subfolders:
 
 - Camera
 - Interfaces
@@ -8,7 +8,7 @@ Hello, anyone interested in my C# scripting abilities! This is a good example of
 - Power Transfer
 - Scripted Events
 
-And many other scripts in the following subfolders:
+And many other scripts in:
 
 - Audio
 - Objects
@@ -16,4 +16,4 @@ And many other scripts in the following subfolders:
 - Pause Menu
 - UI
 
-Feel free to sift through the commit history! That's what people like to do in their spare time, right?
+Feel free to browse the commit history if you'd like to see specifics, along with other things I did on the project! That's what people like to do in their spare time, right? Sift through other peoples' old commits?
