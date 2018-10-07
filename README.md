@@ -1,5 +1,4 @@
 # aiku
-http://aiku-game.com
 Hello, anyone interested in my C# scripting abilities! This is a good example of what my code looked like in May 2018 - in the Scripts folder, I wrote everything in the following subfolders:
 
 Camera
